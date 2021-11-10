@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name":"Minh Long",
+        "tel": "0966543109",
+        "Permission": 1
+    },
+    {
+        "id": 2,
+        "name":"Lê Đại Hành",
+        "tel": "0966343221",
+        "Permission": 2
+    },
+    {
+        "id": 3,
+        "name":"Lê Văn Long",
+        "tel": "0966543130",
+        "Permission": 3
+    },
+    {
+        "id": 4,
+        "name":"Cao Đại Cương",
+        "tel": "0966543109",
+        "Permission": 2
+    },{
+        "id": 5,
+        "name":"Bùi Thế Anh",
+        "tel": "0966543000",
+        "Permission": 1
+    },
+    {
+        "id": 6,
+        "name":"Nguyễn Quốc Thái",
+        "tel": "0966543109",
+        "Permission": 1
+    },
+    {
+        "id": 7,
+        "name":"Lê Bảo Bình",
+        "tel": "0966543109",
+        "Permission": 2
+    }
+]
